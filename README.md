@@ -6,6 +6,8 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-store](https
   - [Tiktok](#tiktok)
   - [SEO](#seo)
   - [Twitter](#twitter)
+  - [LinkedIn](#linkedin)
+  - [Tools](#tools)
   - [Monetization](#monetization)
 
 ---
