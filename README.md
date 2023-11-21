@@ -5,6 +5,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-store](https
   - [Instagram](#instagram)
   - [Tiktok](#tiktok)
   - [SEO](#seo)
+  - [Twitter](#twitter)
   - [Monetization](#monetization)
 
 ---
@@ -27,12 +28,29 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-store](https
 * [IG Community Manager](https://gptstore.ai/gpts/q7gcwPxcLB-ig-helper) - Community Manager for Instagram posts.
 
 ## Tiktok
+* [Tweet Insight](https://gptstore.ai/gpts/HRA77s6gIZ-tweet-insight) - Expert on Twitter's algo with code insights.
 * [Content Script writer](https://gptstore.ai/gpts/lbyomKP0HI-content-script-writer) - Crafts engaging TikTok scripts.
 * [Video Script Generator](https://gptstore.ai/gpts/KdmjfCKoFx-video-script-generator) - Create TikTok Video Script for a topic you want.
 * [Viral Video Scribe](https://gptstore.ai/gpts/BuUcHfgx9P-viral-video-scribe) - Crafts engaging TikTok video scripts based on user-provided topics.
 * [Hashtagger](https://gptstore.ai/gpts/vinGDkhuS-hashtagger) - Creates TikTok video titles and hashtags.
 * [Short Video Caption Generator](https://gptstore.ai/gpts/o90evTXH0C-short-video-caption-generator) - TikTok Caption Generator: based on millions of weekly updated viral videos, crafts engaging and viral captions for videos.
+* [Twitter Bio Craft](https://gptstore.ai/gpts/BBaT0m_A3x-twitter-bio-craft) - Create catchy, professional Twitter bios with emojis and hashtags..
 
+## Twitter
+* [Content Script writer](https://gptstore.ai/gpts/lbyomKP0HI-content-script-writer) - Crafts engaging TikTok scripts.
+* [Tweet AI](https://gptstore.ai/gpts/ZFm3WlTGKe-tweet-ai) - Rewrite tweet that are likely to go viral in twitter! Just type what you want to tweet.
+* [Twitter Trend Explorer](https://gptstore.ai/gpts/twQgO_7msP-twitter-trend-explorer) - Analyzes Twitter trends with data-driven insights, detailed yet accessible.
+* [Blog article to Twitter / X Thread](https://gptstore.ai/gpts/h1qoBBYLC4-blog-article-to-twitter-x-thread) - Give me a blog article and I turn it into a viral X thread.
+* [Thread Weaver](https://gptstore.ai/gpts/mkRlgcXkJv-thread-weaver) - Make engaging Twitter (X) threads from YouTube videos, articles, or text. Generate engaging thumbnails based on your thread.
+* [Twitter Growth Hacker](https://gptstore.ai/gpts/s3N7EOTRNG-twitter-growth-hacker) - Create viral Twitter Long Form post on a topic.
+
+## LinkedIn
+* [Linked In Post Creator](https://gptstore.ai/gpts/MGouWWkUUs-linked-in-post-creator) - Crafts LinkedIn posts from prompts and data, maintaining a professional tone.
+* [Network Mastermind](https://gptstore.ai/gpts/WvvIwAkemk-network-mastermind) - LinkedIn content creator, networker, and outreach guide. Takes your LinkedIn game to new heights.
+* [Career Connector](https://gptstore.ai/gpts/8XCIRl66FC-career-connector) - Formal, encouraging LinkedIn job search assistant.
+* [Link Commenter Pro](https://gptstore.ai/gpts/uYZQwNx19M-link-commenter-pro) - Craft short, engaging comments for LinkedIn posts.
+* [Your Link Ads Strategist](https://gptstore.ai/gpts/5vIofenfMy-your-link-ads-strategist) - Explore our GPT expert for LinkedIn Advertising, designed for impactful B2B marketing.
+* [Job Hunt Helper](https://gptstore.ai/gpts/EE13mYqtkt-job-hunt-helper) - Tracks recent, relevant job postings and assists with LinkedIn, resumes, and networking.
 
 ## SEO
 * [Andrew Darius' SEO Advisor](https://gptstore.ai/gpts/pY4iOa64Yl-andrew-darius-seo-advisor) - SEO specialist offering expert advice on website optimization and ranking strategies.
