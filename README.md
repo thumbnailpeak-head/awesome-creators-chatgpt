@@ -13,8 +13,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-store](https
 ---
 
 ## YouTube
-* [! Thumbnail Creator](https://gptstore.ai/gpts/tEzL0crkGf-thumbnail-creator) - Create a custom Youtube thumbnail.
+* [YouTube Title Generator](https://chat.openai.com/g/g-C0GkFgnUd-youtube-title-generator) - Adapts to create SEO-optimized, catchy YouTube titles.
 * [Utube Script Creator](https://gptstore.ai/gpts/kXx4qubJp8-utube-script-creator) - Generate captivating script ideas for YouTube videos based on user descriptions.
+* [! Thumbnail Creator](https://gptstore.ai/gpts/tEzL0crkGf-thumbnail-creator) - Create a custom Youtube thumbnail.
 * [YT Shorts Expert](https://gptstore.ai/gpts/otz0F1heeJ-yt-shorts-expert) - Creates scripts and images for YouTube shorts.
 * [Yotube SEO Wizard](https://gptstore.ai/gpts/FsgDB85VVl-yotube-seo-wizard) - Generate SEO-optimized YouTube titles, descriptions, tags, and hashtags for creators' keyword.
 * [MrBeastBot](https://gptstore.ai/gpts/zthkOKBjvz-mrbeastbot) - Turns chats into challenges! Personality of a youtuber, knowledge of a Nobel Prize winner.
